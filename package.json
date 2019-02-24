@@ -1,0 +1,15 @@
+{
+  "name": "bulk-ocr-reader",
+  "version": "0.1.0",
+  "description": "CLI to read images of a folder or a single image",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Jose Antonio Cáceres Romero",
+  "license": "MIT",
+  "dependencies": {
+    "tesseract.js": "^1.0.14"
+  }
+}
