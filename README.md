@@ -5,7 +5,7 @@ A command line app to read images of a folder or a single image and output it to
 I use [Tesseract.js](https://github.com/naptha/tesseract.js) for OCR service.
 
 ## Usage
-To use the app you need to create a config.json file with the following content:
+To use the app you need to create a `"config.json"` file with the following content:
 ```json
 {
     "input": "path/to/folder/or/image/to/input",
