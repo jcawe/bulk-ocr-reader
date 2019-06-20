@@ -10,6 +10,6 @@
   "author": "Jose Antonio Cáceres Romero",
   "license": "MIT",
   "dependencies": {
-    "tesseract.js": "^1.0.14"
+    "tesseract.js": "^1.0.19"
   }
 }
